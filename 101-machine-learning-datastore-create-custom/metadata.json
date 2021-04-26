@@ -1,0 +1,18 @@
+{
+  "$schema": "https://aka.ms/azure-quickstart-templates-metadata-schema#",
+  "type": "QuickStart",
+  "itemDisplayName": "Create a Custom Datastore",
+  "description": "This template creates a custom datastore in Azure Machine Learning workspace.",
+  "summary": "This template creates a custom datastore in Azure Machine Learning workspace.",
+  "githubUsername": "cmarkley",
+  "dateUpdated": "2021-04-26",
+  "environments": ["AzureCloud"],
+  "tags": {
+    "subscriptiontype": "Azure4Student",
+    "resource": "Machine Learning Services",
+    "level": "beginner",
+    "cost": "$$"
+  }
+}
+
+
